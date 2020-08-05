@@ -209,7 +209,7 @@ fi
 #    curlargs="--continue"  # ugly
 #fi
 
-curlargs="-x socks5h://127.0.0.1:18887 -C - --connect-timeout=15"
+curlargs="-x socks5h://127.0.0.1:18887 -C - --connect-timeout 15"
 
 
 
