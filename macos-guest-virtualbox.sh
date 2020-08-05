@@ -1,4 +1,8 @@
 #!/bin/bash
+
+#https://rderik.com/blog/understanding-disk-images-by-building-a-macos-catalina-iso-image/
+
+
 # Push-button installer of macOS on VirtualBox
 # (c) myspaghetti, licensed under GPL2.0 or higher
 # url: https://github.com/myspaghetti/macos-virtualbox
